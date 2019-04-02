@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 ## Welcome to my page
 
 Hi, under construction. Planning to store cool stuff here, and something about me.
