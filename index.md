@@ -8,6 +8,6 @@ By now, I am starting to leave some links to things I have done, and that image 
 
 [Integrate](pages/integrate.md)
 
-[Interpolação de Volatilidades Livre de Arbitragem de Kahalé (portuguese)](pages/kahale_volatility.md)
+[Interpolação de Volatilidades Livre de Arbitragem de Kahalé (portuguese)](pages/kahale_interp_vol.md)
 
 [<img align="left" width="100" height="100" src="selo_CEA_c.jpg">](http://www.anbima.com.br/pt_br/educar/area-do-profissional.htm)
