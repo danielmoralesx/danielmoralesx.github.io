@@ -12,6 +12,4 @@ Olá, esta é a página do meu trabalho de formatura da graduação. Aqui ficam 
 
 <a href="/files/Exemplo VTC.R" download>Exemplo VTC</a>
 
-<a href="/files/Exemplo VTC.R" download>Exemplo VTC</a>
-
 <a href="/files/denschkah.xlsm" download>Implementação em VBA no Excel</a>
