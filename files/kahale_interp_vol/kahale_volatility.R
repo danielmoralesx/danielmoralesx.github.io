@@ -492,9 +492,11 @@ Kahale_list_fSab <- function(cmat, kmat, S, tvec, interp_type){
   fSab <- vector("list", nt)
   for(ti in 1:nt){
     if(interp_type == "C1")
-      fSab[[ti]] <- suppressWarnings(KahaleInterpC1(cmat[ti, ], kmat[ti, ], S[i]))
+      fSab[[ti]] <- suppressWarnings(
+        KahaleInterpC1(cmat[ti, ], kmat[ti, ], S[ti])
+      )
     else if(interp_type == "C2")
-      fSab[[ti]] <- KahaleInterpC2(cmat[ti, ], kmat[ti, ], S[i])
+      fSab[[ti]] <- KahaleInterpC2(cmat[ti, ], kmat[ti, ], S[ti])
   }
   fSab
 }
