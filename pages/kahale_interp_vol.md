@@ -4,7 +4,7 @@ Olá, esta é a página do meu trabalho de formatura da graduação. Aqui ficam 
 
 <a href="/files/kahale_interp_vol/Trabalho de Formatura - Daniel Morales.pdf">Monografia em pdf</a>
 
-<a href="/files/kahale_interp_vol/Apresentação Trabalho de Formatura - Daniel Morales.pdf">Slides da apresentação em html</a> - Aqui é possível mudar o ângulo de visão dos gráficos em 3D.
+<a href="/files/kahale_interp_vol/Apresentação Trabalho de Formatura - Daniel Morales.html">Slides da apresentação em html</a> - Aqui é possível mudar o ângulo de visão dos gráficos em 3D.
 
 <a href="/files/kahale_interp_vol/kahale_volatility.R" download>Funções</a>
 
