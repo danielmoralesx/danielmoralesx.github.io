@@ -4,9 +4,9 @@
 
 Hi, under construction. Planning to store cool stuff here, and something about me.
 
-By now, I am starting to leave some links to things I have done, and that image from ANBIMA as template.
+By now, I am starting to leave some links to things I have done, and that image from ANBIMA as template for future use.
 
-[Integrate](pages/integrate.md)
+[Copulas](pages/copulas.md)
 
 [Interpolação de Volatilidades Livre de Arbitragem de Kahalé (portuguese)](pages/kahale_interp_vol.md)
 
