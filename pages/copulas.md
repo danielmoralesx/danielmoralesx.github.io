@@ -19,5 +19,6 @@ I took at IME-USP in 2017.
 <a href="/files/copulas/Dependence Measures.pdf">Chapter 5 - Dependence Measures</a> - Daniel Reis and Nguyen Ngoc
 
 Something else I have been working on is this app, which is an easy way to visualize how to fit copulas locally using local dependence
-measures. You can find the app [here](https://danielmoralesx.shinyapps.io/local_copula_fit_app/), and further information about it will be
-provided in a report I will leave here later.
+measures. You can find the app [here](https://danielmoralesx.shinyapps.io/local_copula_fit_app/), and its code 
+<a href="/files/copulas/local_copula_fit_app.R" download>here</a>. Further information about it will be provided in a report I will leave 
+here later.
