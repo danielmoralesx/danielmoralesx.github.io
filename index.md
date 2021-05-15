@@ -6,7 +6,7 @@ Hi, under construction. Planning to store cool stuff here, and something about m
 
 By now, I am starting to leave some links to things I have done, and that image from ANBIMA as template for future use.
 
-[Copulas](pages/copulas.md)
+[Copulas](https://github.com/danielmoralesx/copulas/blob/main/README.md)
 
 [Interpolação de Volatilidades Livre de Arbitragem de Kahalé (portuguese)](pages/kahale_interp_vol.md)
 
